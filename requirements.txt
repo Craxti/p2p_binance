@@ -1,0 +1,3 @@
+requests
+aiogram==2.19
+aiohttp==3.8.1
