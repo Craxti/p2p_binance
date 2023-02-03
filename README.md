@@ -1,5 +1,6 @@
 # p2p_binance
 
+```pip -r install requirements.txt```
 
 
 Settings
